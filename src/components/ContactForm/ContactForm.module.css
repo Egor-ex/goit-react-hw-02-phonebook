@@ -1,0 +1,22 @@
+.form {
+	display: flex;
+	flex-direction: column;
+}
+.label {
+	display: block;
+	margin-bottom: 15px;
+}
+
+.label span {
+	display: block;
+}
+
+.label input {
+	padding: 10px;
+}
+
+.btn {
+	padding: 10px;
+	font-weight: 600;
+	cursor: pointer;
+}
